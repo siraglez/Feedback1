@@ -20,7 +20,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 
-@OptIn(ExperimentalMaterial3Api::class) // Añadir esta línea para aceptar el uso de la API experimental
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun AgregarResena(novela: Novela, onResenaAgregada: (String) -> Unit) {
     var reseña by remember { mutableStateOf("") }
