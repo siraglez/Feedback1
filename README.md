@@ -4,7 +4,7 @@ link al repositorio: https://github.com/siraglez/Feedback1.git
 
 # Gestión de Biblioteca Personal de Novelas
 
-Esta aplicación permite gestionar una biblioteca personal de novelas. Está desarrollada en Kotlin utilizando **Jetpack Compose** para la interfaz de usuario y **Android Architecture Components** como ViewModel para manejar la lógica de negocio. La aplicación permite agregar, eliminar y visualizar detalles de novelas, así como marcarlas como favoritas y agregar reseñas.
+Esta aplicación permite gestionar una biblioteca personal de novelas. Está desarrollada en Kotlin utilizando *Jetpack Compose* para la interfaz de usuario y *Android Architecture Components* como ViewModel para manejar la lógica de negocio. La aplicación permite agregar, eliminar y visualizar detalles de novelas, así como marcarlas como favoritas y agregar reseñas.
 
 ## Componentes Clave
 
